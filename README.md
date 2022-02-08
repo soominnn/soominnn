@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ## 🐮  m e  🐮 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://desinging-new.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.qkrtnals970804@gmail.com) ![42](https://img.shields.io/badge/42SEOUL-black?style=flat-square&logo=42&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooMinPark&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
