@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffd400&height=300&section=header&text=SooMinPark%20&fontSize=80&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooMinPark%20&fontSize=70&)
 
 <div align=center>
 
