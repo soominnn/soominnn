@@ -26,7 +26,7 @@
 <br><br>
 
 ## 🐮  m e  🐮 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://desinging-new.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.qkrtnals970804@gmail.com)
+[![Tech Blog](https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=blogger&logoColor=white)](https://desinging-new.tistory.com/) [![Notion](https://img.shields.io/badge/Notion-FF5722?style=flat-square&logo=Portfolio&logoColor=white)](https://www.notion.so/74e7e786856143df88ff0babb1c1b98a) [![Gmail](https://img.shields.io/badge/Gmail-F7DF1E?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.qkrtnals970804@gmail.com) 
 
 
 
